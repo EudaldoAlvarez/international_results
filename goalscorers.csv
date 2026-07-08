@@ -47854,3 +47854,34 @@ date,home_team,away_team,team,scorer,minute,own_goal,penalty
 2026-07-02,Spain,Austria,Spain,Mikel Oyarzabal,89,FALSE,FALSE
 2026-07-02,Switzerland,Algeria,Switzerland,Breel Embolo,10,FALSE,FALSE
 2026-07-02,Switzerland,Algeria,Switzerland,Dan Ndoye,46,FALSE,FALSE
+2026-07-03,Argentina,Cape Verde,Argentina,Lionel Messi,29,FALSE,FALSE
+2026-07-03,Argentina,Cape Verde,Cape Verde,Deroy Duarte,59,FALSE,FALSE
+2026-07-03,Argentina,Cape Verde,Argentina,Lisandro Martínez,92,FALSE,FALSE
+2026-07-03,Argentina,Cape Verde,Cape Verde,Sidny Lopes Cabral,103,FALSE,FALSE
+2026-07-03,Argentina,Cape Verde,Argentina,Diney,111,TRUE,FALSE
+2026-07-03,Australia,Egypt,Egypt,Emam Ashour,13,FALSE,FALSE
+2026-07-03,Australia,Egypt,Australia,Mohamed Hany,55,TRUE,FALSE
+2026-07-03,Colombia,Ghana,Colombia,Jhon Arias,14,FALSE,FALSE
+2026-07-04,Canada,Morocco,Morocco,Azzedine Ounahi,50,FALSE,FALSE
+2026-07-04,Canada,Morocco,Morocco,Azzedine Ounahi,82,FALSE,FALSE
+2026-07-04,Canada,Morocco,Morocco,Soufiane Rahimi,90,FALSE,FALSE
+2026-07-04,Paraguay,France,France,Kylian Mbappé,70,FALSE,TRUE
+2026-07-05,Brazil,Norway,Norway,Erling Haaland,79,FALSE,FALSE
+2026-07-05,Brazil,Norway,Brazil,Neymar,90,FALSE,TRUE
+2026-07-05,Brazil,Norway,Norway,Erling Haaland,90,FALSE,FALSE
+2026-07-05,Mexico,England,England,Jude Bellingham,36,FALSE,FALSE
+2026-07-05,Mexico,England,England,Jude Bellingham,38,FALSE,FALSE
+2026-07-05,Mexico,England,Mexico,Julián Quiñones,42,FALSE,FALSE
+2026-07-05,Mexico,England,England,Harry Kane,60,FALSE,TRUE
+2026-07-05,Mexico,England,Mexico,Raúl Jiménez,69,FALSE,TRUE
+2026-07-06,Portugal,Spain,Spain,Mikel Merino,90,FALSE,FALSE
+2026-07-06,United States,Belgium,Belgium,Charles De Ketelaere,9,FALSE,FALSE
+2026-07-06,United States,Belgium,United States,Malik Tillman,31,FALSE,FALSE
+2026-07-06,United States,Belgium,Belgium,Charles De Ketelaere,33,FALSE,FALSE
+2026-07-06,United States,Belgium,Belgium,Hans Vanaken,57,FALSE,FALSE
+2026-07-06,United States,Belgium,Belgium,Romelu Lukaku,90,FALSE,FALSE
+2026-07-07,Argentina,Egypt,Egypt,Yasser Ibrahim,15,FALSE,FALSE
+2026-07-07,Argentina,Egypt,Egypt,Mostafa Ziko,67,FALSE,FALSE
+2026-07-07,Argentina,Egypt,Argentina,Cristian Romero,79,FALSE,FALSE
+2026-07-07,Argentina,Egypt,Argentina,Lionel Messi,83,FALSE,FALSE
+2026-07-07,Argentina,Egypt,Argentina,Enzo Fernández,90,FALSE,FALSE
